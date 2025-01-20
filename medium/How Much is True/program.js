@@ -1,5 +1,5 @@
 function countTrue(array){
-    return array.length > 0 ? array.reduce((prev, current) => prev += current,) : 0;
+    return array.reduce((prev, current) => prev += current, 0);
 }
 
 console.log(countTrue([true, false, false, true, false]));
