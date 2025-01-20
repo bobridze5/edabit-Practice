@@ -19,7 +19,7 @@ bitwiseXOR(6, 23) ➞ 00010001
 
 Write three functions to calculate the bitwise AND, bitwise OR and bitwise XOR of two numbers.
 
-** Examples **
+**Examples**
 
 ```
 bitwiseAND(7, 12) ➞ 4
