@@ -12,7 +12,7 @@ Given an object containing the personal data of a person (name, surname, gender 
 
     * Exactly 3 consonants then consonants are used in the order they appear (Matt -> MTT).
     * More than 3 consonants then first, third and fourth consonant are used (Samantha -> SNT | Thomas -> TMS).
-*   Less than 3 consonants then vowels will replace missing characters in the same order they appear (Bob ->    BBO | Paula -> PLA).
+    *   Less than 3 consonants then vowels will replace missing characters in the same order they appear (Bob ->    BBO | Paula -> PLA).
     * Less than three letters then "X" will take the the third slot after the consonant and the vowel (Al -> LAX).
 * Generate 2 numbers, 1 letter and 2 numbers from date of birth and gender:
     * Take the last two digits of the year of birth (1985 -> 85).
