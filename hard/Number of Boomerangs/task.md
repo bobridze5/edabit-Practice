@@ -36,4 +36,5 @@ countBoomerangs([4, 4, 4, 9, 9, 9, 9]) ➞ 0
 ```
 
 **Notes**
+
 ``[5, 5, 5]`` (triple identical digits) is NOT considered a boomerang because the middle digit is identical to the first and last.
